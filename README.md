@@ -3,9 +3,7 @@
 
 ## Project will remain inactive for longer, maybe indefinitely...
 
-## Please have a look at: https://github.com/jorenn92/Maintainerr
-
-### _Project is in development!_
+## Please have a look at: https://github.com/maintainerr/maintainerr
 <br/>
 
 **Cleanarr** will automatically delete movies and series-episodes from your Media Server.
